@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMTPSend", "SMTPSend\SMTPSend.csproj", "{9AE1713A-1E07-4397-BA33-0CC530D87624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AE1713A-1E07-4397-BA33-0CC530D87624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE1713A-1E07-4397-BA33-0CC530D87624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE1713A-1E07-4397-BA33-0CC530D87624}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9AE1713A-1E07-4397-BA33-0CC530D87624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE1713A-1E07-4397-BA33-0CC530D87624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AE1713A-1E07-4397-BA33-0CC530D87624}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
